@@ -125,7 +125,7 @@ DROP TABLE Chr_XX_Anc_Seq_WGA;
 VACUUM;
 
 .quit
-" > Chr${chr}_AncSeqs.db.sql
+" |sed "s/XX/$chr/g" > Chr${chr}_AncSeqs.db.sql
 
 sqlite3 -init Chr${chr}_AncSeqs.db.sql ../../../Allele_Freq/Chr${chr}_AncSites.db << EOF
 .quit
