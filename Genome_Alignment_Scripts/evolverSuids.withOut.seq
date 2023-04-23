@@ -1,0 +1,16 @@
+((((((Ssc_Duroc:5e-05,Ssc_euw1:5e-05)euro:0.00595,Ssc_DNSE:0.006)ssc:0.0015,Sceb:0.021)sus:0.029,(Phac_wart:0.02765,Pota_river:0.02765)afr:0.02235)Suidae:0.0312,Cow:0.0812)Cetartiodactyla:0.143275,Horse:0.224475)Anc0;
+*Horse				./GCF_002863925.1_EquCab3.0_genomic.fa.gz
+*Cow				./GCF_002263795.2_ARS-UCD1.3_genomic.fa.gz
+*Ssc_Duroc			./Sus_scrofa.Sscrofa11.1.dna_sm.toplevel.fa.gz
+Ssc_euw1			./euw1.fa
+Ssc_DNSE			./dnse.fa
+Sceb				./sus_cebifrons.fa
+Phac_wart			./Warthog.chrALL.sm.fa
+Pota_river			./Redriverhog.chrALL.sm.fa
+Anc0				./Anc0.fa
+Cetartiodactyla		./Cetartiodactyla.fa
+Suidae				./Suidae.fa
+sus					./sus.fa
+afr					./afr.fa
+ssc					./ssc.fa
+euro				./euro.fa
