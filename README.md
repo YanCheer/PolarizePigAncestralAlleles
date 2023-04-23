@@ -8,4 +8,5 @@ Then the reconstructed ancestral sequences of pig, _Sus_, and _Suidae_ are expor
 The `Linux Shell` scripts should be run in order 01, 02, 03. The other scripts and files will be automatically called by `.sh` scripts for running. <br>
 
 * Rscript_to_Validate_AA_byMP_inSplitChr.R <br>
-The R script `Rscript_to_Validate_AA_byMP_inSplitChr.R` is used to perform the polarization via the major alleles of suids at a locus. The polarization is based on three representative outgroup species and a maximum-parsimony principle with details that have been listed in the script.
+The R script `Rscript_to_Validate_AA_byMP_inSplitChr.R` is used to perform the polarization via the major alleles of suids at a locus. The polarization is based on three representative outgroup species and a maximum-parsimony principle. <br>
+The corresponding details have been listed in the script.
