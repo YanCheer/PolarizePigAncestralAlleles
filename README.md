@@ -4,7 +4,7 @@ The report has been prepared for submission.<br>
 
 * Genome_Alignment_Scripts <br>
 The `Genome_Alignment_Scripts` directory includes the scripts of `Progressive Cactus` pipeline to align reference genomes together and deposit results in HAL format. The HAL format file is converted into MAF format with Sscrofa11.1 as reference. <br>
-Then the reconstructed ancestral sequences of pig, _Sus_, and _Suidae_ are exported. <br> 
+Then the reconstructed ancestral sequences of pig, _Sus_, and Suidae are exported. <br> 
 The `Linux Shell` scripts should be run in order 01, 02, 03. The other scripts and files will be automatically called by `.sh` scripts for running. <br>
 
 * Rscript_to_Validate_AA_byMP_inSplitChr.R <br>
