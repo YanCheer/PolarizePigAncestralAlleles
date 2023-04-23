@@ -1,13 +1,13 @@
-chr	pos	    ref	 Babi	Bush	Cwart	Dwart	Pygmy	Redhog	Sbar	Scebi	Scele	Sver
-1	548663	A	 A	     A		A		A		A		A		A		A		A		A
-1	548664	T	 T	     T		T		T		T		T		T		T		T		T
-1	548665	T	 T	     T		T		T		T		T		T		T		T		T
-1	548666	T	 T	     T		T		T		T		T		T		T		T		T
-1	548667	A	 A	     A		A		A		A		A		A		A		A		A
-1	548668	T	 T	     T		T		T		T		T		T		T		T		T
-1	548669	T	 T	     T		T		T		T		T		T		T		T		T
-1	548670	T	 T	     T		T		T		T		T		T		T		T		T
-1	548671	G	 C	     G		G		G		G		G		G		G		G		G
+chr	pos	ref	Babi	Bush	Cwart	Dwart	Pygmy	Redhog	Sbar	Scebi	Scele	Sver
+1	548663	A	A	A	A	A	A	A	A	A	A	A
+1	548664	T	T	T	T	T	T	T	T	T	T	T
+1	548665	T	T	T	T	T	T	T	T	T	T	T
+1	548666	T	T	T	T	T	T	T	T	T	T	T
+1	548667	A	A	A	A	A	A	A	A	A	A	A
+1	548668	T	T	T	T	T	T	T	T	T	T	T
+1	548669	T	T	T	T	T	T	T	T	T	T	T
+1	548670	T	T	T	T	T	T	T	T	T	T	T
+1	548671	G	C	G	G	G	G	G	G	G	G	G
 ############ The above is an example of Chr%s_AncSites.txt #################################
 
 
